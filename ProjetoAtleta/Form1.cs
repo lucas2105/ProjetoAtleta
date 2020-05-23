@@ -43,7 +43,7 @@ namespace ProjetoAtleta
                 resultado = double.Parse(obj.CalcularIMC().ToString("0.00"));
                 MessageBox.Show("O IMC do atleta " + obj.nome + " de " + obj.idade + " anos é " + resultado);
             }
-            ////git
+            /////git
         }
     }
 }
